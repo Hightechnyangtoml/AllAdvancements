@@ -1,0 +1,6 @@
+name: Achivements
+version: '1.0-SNAPSHOT'
+main: kr.cafemoca.achivements.Achivements
+api-version: '1.21'
+authors: [ Hightechnyangtoml ]
+description: For Clearing All Advancements
